@@ -42,7 +42,7 @@ img {
   width: 100%;
   height: 100vh;
   position: relative;
-  background: url("Netflix/background.jpg") no-repeat center center/cover;
+  background: url("../Netflix/background.jpg") no-repeat center center/cover;
 }
 .showcase::after {
   content: "";
